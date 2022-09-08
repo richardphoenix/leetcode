@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f44e50e8-33bb-44e8-b444-a4119926fbc8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/linkedlist/_19_Remove_Nth_Node_From_End_of_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/_21_Merge_Two_Sorted_Lists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +36,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/xiaon/IdeaProjects/Algorithm",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
