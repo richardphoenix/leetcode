@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f44e50e8-33bb-44e8-b444-a4119926fbc8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/linkedlist/_141_Linked_List_Cycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/_141_Linked_List_Cycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/_203_Remove_Linked_List_Elements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
