@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f44e50e8-33bb-44e8-b444-a4119926fbc8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/linkedlist/_876_Middle_of_the_Linked_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/_2_Add_Two_Numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
