@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f44e50e8-33bb-44e8-b444-a4119926fbc8" name="Changes" comment="226. Invert Binary Tree">
-      <change afterPath="$PROJECT_DIR$/src/linkedlist/_2095_Delete_the_Middle_Node_of_a_Linked_List.java" afterDir="false" />
+    <list default="true" id="f44e50e8-33bb-44e8-b444-a4119926fbc8" name="Changes" comment="2095. Delete the Middle Node of a Linked List">
+      <change afterPath="$PROJECT_DIR$/src/hashtable/_1832_Check_if_the_Sentence_Is_Pangram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665733926043</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2095. Delete the Middle Node of a Linked List">
+      <created>1665744655813</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665744655813</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,7 +85,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="226. Invert Binary Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="226. Invert Binary Tree" />
+    <MESSAGE value="2095. Delete the Middle Node of a Linked List" />
+    <option name="LAST_COMMIT_MESSAGE" value="2095. Delete the Middle Node of a Linked List" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
